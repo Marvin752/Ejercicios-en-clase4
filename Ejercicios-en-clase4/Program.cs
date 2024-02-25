@@ -41,3 +41,5 @@ do
     divi11 = 11 % w;
 }while(divi7 != 0 && divi11 != 0);
 Console.WriteLine("El numero divisible entre 7 y 11 es: " + w);
+
+//Hola mi Diego como anda, bien gracias y usted
